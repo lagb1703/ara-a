@@ -1,0 +1,5 @@
+186.86.12.0 a 186.86.13.255 pereira
+
+17,568,512 colombia
+
+ip, hostname, location, main Content, title, h1, owner

@@ -1,0 +1,12 @@
+requerimientos:
+necesitaras instalar:
+ * httpx
+ * BeautifulSoup
+ * pandas
+
+para ejecutar el programa se utiliza uno de los siguientess comandos:
+windows: py .\arañita.py
+linux: py ./arañita.py
+mac: no se no tengo
+
+gracias por darme una oportunidad :)
